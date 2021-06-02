@@ -6,4 +6,4 @@ To replicate this project to your environment please follow this step
 ```shell
 git clone https://github.com/B21-CAP0075/DeCare-App.git
 ```
-4. Change to the directory using your jupiter editor or upload it to your codelabs
+3. Change to the directory using your jupiter editor or upload it to your codelabs
