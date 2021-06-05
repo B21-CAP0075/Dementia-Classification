@@ -5,7 +5,7 @@ You don't need to install anything since its written in Google Colab which is a 
 1. Make sure that you already install Git or Download this file to ZIP
 3. clone this repository using Git
 ```shell
-git clone https://github.com/B21-CAP0075/DeCare-App.git
+git clone https://github.com/B21-CAP0075/Dementia-Classification
 ```
 3. Change to the directory using your jupiter editor or upload it to colabs
 
