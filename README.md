@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://play.google.com/store/apps/details?id=com.bangkit.decare)
+<img src="product.jpeg" alt="Product Screenshot" width="80">
 
 DeCare is an Android application to support in-home caregiver to improve quality of dementia patient's life. DeCare can perform early detection of dementia using MMSE Screening. The results of MMSE Screening and the patient's personal data will be analyzed by a Machine Learning model from Cloud to predict whether the patient is suffering from dementia or not. With this model, we can tell that a person has dementia or not by using their personal information such as Age, Socioeconomic Status, Education Level, Gender, and MMSE Test Result.
 
