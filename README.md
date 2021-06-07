@@ -102,7 +102,7 @@ We use Google Colab Services to create the model so just make sure you have inte
 ### Installation
 
 1. Make sure that you already install Git or Download this file to ZIP
-2. clone this repository using Git
+2. Clone this repository using Git
 ```shell
 git clone https://github.com/B21-CAP0075/Dementia-Classification
 ```
