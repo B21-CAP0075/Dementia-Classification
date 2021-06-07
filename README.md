@@ -149,4 +149,4 @@ Project Link: [B21-CAP0075](https://github.com/B21-CAP0075)
 [stars-url]: https://github.com/B21-CAP0075/Dementia-Classification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/B21-CAP0075/Dementia-Classification/issues
-[product-screenshot]: images/product.jpg
+[product-screenshot]: product.jpeg
