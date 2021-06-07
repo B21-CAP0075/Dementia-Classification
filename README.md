@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bangkit.decare">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dementia-Classification Model</h3>
