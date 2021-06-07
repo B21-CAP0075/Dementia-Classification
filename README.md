@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.bangkit.decare">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Dementia-Classification Model</h3>
@@ -116,26 +116,26 @@ git clone https://github.com/B21-CAP0075/Dementia-Classification
   
 ## Source Articles and Journals
 
-- [Early Detection of Dementia: Advances, Challenges, and Future Prospects](https://www.researchgate.net/publication/316699181_Early_Detection_of_Deme ntia_Advances_Challenges_and_Future_Prospects )
-- [Dementia Prediction on OASIS Dataset using Supervised and Ensemble Learning Techniques]https://www.ijeat.org/wp-content/uploads/papers/v10i1/A18271010120.pdf)
-- [Alzi] (https://alzi.or.id/ )
-- [Neural Network Design] (https://www.researchgate.net/publication/347005722_Design_of_Artificial_Neural_Netwo rks_for_Early_Detection_of_Dementia_Risk_Using_Mini-Mental_State_of_Examination_ MMSE )
+- [Early Detection of Dementia: Advances, Challenges, and Future Prospects](https://www.researchgate.net/publication/316699181_Early_Detection_of_Dementia_Advances_Challenges_and_Future_Prospects)
+- [Dementia Prediction on OASIS Dataset using Supervised and Ensemble Learning Techniques](https://www.ijeat.org/wp-content/uploads/papers/v10i1/A18271010120.pdf)
+- [Alzi](https://alzi.or.id/)
+- [Neural Network Design](https://www.researchgate.net/publication/347005722_Design_of_Artificial_Neural_Networks_for_Early_Detection_of_Dementia_Risk_Using_Mini-Mental_State_of_Examination_MMSE )
 
 <!-- CONTACT -->
 ## Contact Us
 
-[Muhammad Ayyub Abdurrahman](https://www.linkedin.com/in/ayyubabdurrahman/) - M0020111@bangkit.academy
-Ahmad Emir Alfatah  - A3152838@bangkit.academy
-Dharma Yudistira Eka Putra - A1311646@bangkit.academy
-Ria Rizky Mardiana  - C0070700@bangkit.academy
-Muhammad Ridho Anshory - C1161495@bangkit.academy
-Jessica Julia Paradina Siregar - M3152837@bangkit.academy
+Muhammad Ayyub Abdurrahman - M0020111@bangkit.academy <br />
+Ahmad Emir Alfatah  - A3152838@bangkit.academy <br />
+Dharma Yudistira Eka Putra - A1311646@bangkit.academy <br />
+Ria Rizky Mardiana  - C0070700@bangkit.academy  <br />
+Muhammad Ridho Anshory - C1161495@bangkit.academy <br />
+Jessica Julia Paradina Siregar - M3152837@bangkit.academy <br />
 
 Project Link: [B21-CAP0075](https://github.com/B21-CAP0075)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [BAngkit Academy](https://grow.google/intl/id_id/bangkit/)
+* [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)
 * [AlZi](https://alzi.or.id/)
 
 
@@ -149,4 +149,4 @@ Project Link: [B21-CAP0075](https://github.com/B21-CAP0075)
 [stars-url]: https://github.com/B21-CAP0075/Dementia-Classification/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/B21-CAP0075/Dementia-Classification/issues
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/product.jpg
