@@ -142,12 +142,13 @@ Project Link: [B21-CAP0075](https://github.com/B21-CAP0075)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+
+[contributors-shield]: https://img.shields.io/badge/contributor-3-green
 [contributors-url]: https://github.com/B21-CAP0075/Dementia-Classification/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/B21-CAP0075/Dementia-Classification
 [forks-url]: https://github.com/B21-CAP0075/Dementia-Classification/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/B21-CAP0075/Dementia-Classification
 [stars-url]: https://github.com/B21-CAP0075/Dementia-Classification/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/B21-CAP0075/Dementia-Classification
 [issues-url]: https://github.com/B21-CAP0075/Dementia-Classification/issues
 [product-screenshot]: product.jpeg
